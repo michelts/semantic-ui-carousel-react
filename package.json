@@ -26,10 +26,9 @@
     "url": "https://github.com/AramRafeq/semantic-ui-carousel-react/issues"
   },
   "homepage": "https://github.com/AramRafeq/semantic-ui-carousel-react#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.0"
   },
   "devDependencies": {
